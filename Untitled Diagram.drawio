@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.4">
+  <diagram name="Page-1" id="4QhpwyVWHBZVwE5iLQ2I">
+    <mxGraphModel dx="954" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-4" value="&lt;h2&gt;PYTHON&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="224" y="218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1.025;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BrpzPB1FlEC9zegPtMI7-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257" y="271" as="sourcePoint" />
+            <mxPoint x="389" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-13" value="&lt;h3&gt;Advance&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="389" y="233" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="59" width="50" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;List&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;comprehension&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="543" y="38" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.56;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BrpzPB1FlEC9zegPtMI7-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="142" as="sourcePoint" />
+            <mxPoint x="568" y="107" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="536" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrpzPB1FlEC9zegPtMI7-32" value="&lt;div style=&quot;text-align: justify;&quot;&gt;generators&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="554" y="91" width="95" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
